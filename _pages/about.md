@@ -18,7 +18,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 - **Southeast University** (B.E. in Artificial Intelligence), Nanjing, China  
   _Sep. 2022 — Present_
 
-### Professional Basic Courses:
+<!-- ### Professional Basic Courses:
 - Complex Function (96, top 1%)
 - Mathematical Analysis for Engineering (96)  
 - Linear Algebra (95)  
@@ -28,7 +28,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 - Digital Logic Circuits (96, top 4%)
 - Pattern Recognition (91, top 7%)
 - Machine Learning (88, top 10%)
-- Signals and Systems (88, top 5%)
+- Signals and Systems (88, top 5%) -->
 
 ---
 
