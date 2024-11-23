@@ -9,43 +9,100 @@ redirect_from:
 
 **Since my personal homepage was recently launched, some of the information on my template-based homepage is not yet complete. I will improve my personal homepage as soon as possible.**
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/kaicheng001/kaicheng001.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/kaicheng001/kaicheng001.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# Summary
+I am an undergraduate student at the **School of Artificial Intelligence, Southeast University (SEU)**.  
+I have a solid grasp of academic knowledge from my coursework, while my research interests extend broadly outside the classroom. These include large language models, neural networks, contrastive learning, and unsupervised learning paradigms in machine learning.  
+I enjoy exploring the unknown and excel in the practical application of technical skills. Beyond my studies and research, I have a strong passion for open-source projects and deeply value the collaborative spirit they embody.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Education
+- **Southeast University** (B.E. in Artificial Intelligence), Nanjing, China  
+  _Sep. 2022 — Present_
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/kaicheng001/kaicheng001.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Professional Basic Courses:
+- Complex Function (96, top 1%)
+- Mathematical Analysis for Engineering (96)  
+- Linear Algebra (95)  
+- University Physics (90)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Major Courses:
+- Digital Logic Circuits (96, top 4%)
+- Pattern Recognition (91, top 7%)
+- Machine Learning (88, top 10%)
+- Signals and Systems (88, top 5%)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
 
-**Markdown generator**
+# Research
+My research integrates **large language models**, **computer vision**, and **contrastive learning** to solve amazing problems. Machine learning and AI technologies are employed in all these fields. Below are some specific focuses:  
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Large Language Models:
+- LLaVA ([NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/6dcf277ea32ce3288914faf369fe6de0-Paper-Conference.pdf))  
+- MiniGPT-4 ([ICLR 2024](https://openreview.net/forum?id=1tZbq88f27))  
+- Phi-3 ([arXiv](https://arxiv.org/abs/2306.11644))  
+- LLaMA ([arXiv](https://arxiv.org/abs/2302.13971))  
+- Qwen-VL ([arXiv](https://arxiv.org/abs/2308.12966))  
+- LLaVA-CoT ([arXiv](https://arxiv.org/abs/2411.10440))  
+- Deepseek ([arXiv](https://arxiv.org/abs/2401.02954))  
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Computer Vision:
+- MobileNet ([arXiv](https://arxiv.org/abs/1704.04861))  
+- Lightweight Model Deployment ([IEEE](https://ieeexplore.ieee.org/document/10748798))  
+- Asymptotic Feature Pyramid Network ([arXiv](https://arxiv.org/abs/2306.15988))  
+- Efficient Multi-Scale Attention ([arXiv](https://arxiv.org/abs/2305.13563))  
+- Object Detection ([IEEE](https://ieeexplore.ieee.org/document/10748798))  
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Contrastive Learning:
+- InstDisc ([arXiv](https://arxiv.org/abs/1805.01978))  
+- InvaSpread ([IEEE](https://ieeexplore.ieee.org/document/8953747))  
+- CPC ([arXiv](https://arxiv.org/abs/1807.03748))  
+- CMC ([arXiv](https://arxiv.org/abs/1906.05849))  
+- MoCo ([CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html))  
+- SimCLR ([arXiv](https://arxiv.org/abs/2002.05709))  
+- BYOL ([NeurIPS 2020](https://papers.nips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf))  
+- SimSiam ([CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf))  
+- DINO ([ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf))  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+---
+
+# Projects
+- **Research on intelligent bird detection and repelling technology for substations based on audio-visual integration (Provincial Innovation):**  
+  Built an integrated audio-visual bird-repelling private server device, combining deep learning technologies to develop a full-featured intelligent system.  
+
+- **Intelligent bird recognition technology for substations based on deep learning (School-level SRTP):**  
+  - Final acceptance rated as **excellent**.  
+  - Published an international conference paper and was **nominated for the Best Poster Award**.  
+  - Designed an improved, efficient, and lightweight bird detection model.  
+
+---
+
+# Conference Papers / Presentations
+1. **X. Xie**, Y. Wang, H. Liang, C. Lou, and B. Gao,  
+   _"An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5"_,  
+   in **Proc. IEEE Int. Conf. CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)**, Copenhagen, Denmark, 2024, pp. 124–129.  
+   [IEEE](https://doi.org/10.1109/CYBER63482.2024.10748798)
+
+---
+
+# Honors and Awards
+- **Southeast University Three Good Students** (Sep. 2024)  
+- **Finalist for Best Poster Award** at IEEE-CYBER 2024 (Jul. 2024)  
+- **First Prize** in the 15th National College Students Mathematics Competition (Apr. 2024)  
+- **Outstanding Communist Youth League Member of Southeast University** (Jun. 2023)  
+- **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition (Oct. 2024)  
+
+---
+
+# Skills
+- **Frameworks:** PyTorch, Sklearn, OpenCV, etc.  
+- **Programming:** Python, C++, MATLAB, LaTeX  
+
+---
+
+# Self-Evaluation
+- **Passion:** Enthusiastic about technology and innovation, always eager to explore new areas.  
+- **Teamwork:** Excellent communication and collaboration skills, with a strong teamwork spirit.  
+- **Learning Ability:** Quick learner with the ability to adapt to new environments.  
+- **Responsibility:** Reliable and capable of completing tasks independently.  
+
