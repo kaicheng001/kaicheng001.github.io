@@ -7,7 +7,7 @@ excerpt: 'This paper presents an efficient bird detection method for substation 
 date: July, 2024
 venue: '2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10748798'
-citation: '**X. Xie, Y. Wang, H. Liang, C. Lou, and B. Gao**, "An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5," in *Proceedings of the 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*, Copenhagen, Denmark, 2024, pp. 124-129. doi: [10.1109/CYBER63482.2024.10748798](https://doi.org/10.1109/CYBER63482.2024.10748798).'
+# citation: '**X. Xie, Y. Wang, H. Liang, C. Lou, and B. Gao**, "An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5," in *Proceedings of the 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*, Copenhagen, Denmark, 2024, pp. 124-129. doi: [10.1109/CYBER63482.2024.10748798](https://doi.org/10.1109/CYBER63482.2024.10748798).'
 ---
 
 
