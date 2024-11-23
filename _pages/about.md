@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Kaicheng001's Homepage"
+title: "kaicheng001's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-**Since my personal homepage was recently launched, some of the information on my template-based homepage is not yet complete. I will improve my personal homepage as soon as possible.**
 
 # Summary
 I am an undergraduate student at the **School of Artificial Intelligence, Southeast University (SEU)**.  
