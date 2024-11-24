@@ -2,7 +2,8 @@
 **kaicheng001's Homepage is a Github Pages template for academic websites.**
 
 <!-- ![Academic Pages template example](images/homepage.png "Academic Pages template example") -->
-This project originated from [Academic Pages](https://github.com/academicpages/academicpages.github.io)
+This project originated from [Academic Pages](https://github.com/academicpages/academicpages.github.io). 
+If you find this repository useful, please give me a star, thank you.
 
 # Getting Started
 
