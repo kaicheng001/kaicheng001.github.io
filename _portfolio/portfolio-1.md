@@ -5,4 +5,4 @@ excerpt: "Participate in the 2024 IEEE 14th International Conference on CYBER Te
 collection: activities
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Participated in the 2024 IEEE 14th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER) in July 2024, in Copenhagen, Denmark.
