@@ -104,7 +104,7 @@ InstDisc ([arXiv](https://arxiv.org/abs/1805.01978)), InvaSpread ([IEEE](https:/
 ## Skills
 
 - **Programming**: Python, C/C++, MATLAB, JavaScript  
-- **Misc**: PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown, etc.
+- **Misc**: PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown
 
 ---
 
