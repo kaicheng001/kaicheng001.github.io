@@ -117,26 +117,26 @@ My research integrates **large language models**, **computer vision**, and **con
 
 ## Honors and Awards
 
-• **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition  
+- **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition  
   *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)* (Oct. 2024)  
-• **Southeast University Three Good Students** (Sep. 2024)  
-• **Finalist for Best Poster Award** at IEEE-CYBER 2024 (Jul. 2024)  
-• **First Prize** in the 15th National College Students Mathematics Competition *(top 1%)* (Apr. 2024)  
-• **Outstanding Communist Youth League Member of Southeast University** (Jun. 2023)  
-• **First Prize** in the 20th Jiangsu Provincial College Student Mathematics Competition *(top 1%)* (May. 2023)  
+- **Southeast University Three Good Students** (Sep. 2024)  
+- **Finalist for Best Poster Award** at IEEE-CYBER 2024 (Jul. 2024)  
+- **First Prize** in the 15th National College Students Mathematics Competition *(top 1%)* (Apr. 2024)  
+- **Outstanding Communist Youth League Member of Southeast University** (Jun. 2023)  
+- **First Prize** in the 20th Jiangsu Provincial College Student Mathematics Competition *(top 1%)* (May. 2023)  
 
 ---
 
 ## Skills
 
-• **Programming**: Python, C/C++, MATLAB, JavaScript  
-• **Misc**: PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown, etc.
+- **Programming**: Python, C/C++, MATLAB, JavaScript  
+- **Misc**: PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown, etc.
 
 ---
 
 ## Self-evaluation
 
-• **Passion**: Enthusiastic about technology and innovation, always eager to explore new frontiers.  
-• **Teamwork**: Strong communication and collaboration skills, actively contributing to group success.  
-• **Adaptability**: Quick learner with the ability to apply knowledge effectively and adapt to new environments.  
-• **Responsibility**: Highly responsible, capable of managing tasks independently with exceptional attention to detail.
+- **Passion**: Enthusiastic about technology and innovation, always eager to explore new frontiers.  
+- **Teamwork**: Strong communication and collaboration skills, actively contributing to group success.  
+- **Adaptability**: Quick learner with the ability to apply knowledge effectively and adapt to new environments.  
+- **Responsibility**: Highly responsible, capable of managing tasks independently with exceptional attention to detail.
