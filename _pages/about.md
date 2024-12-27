@@ -7,32 +7,63 @@ redirect_from:
   - /about.html
 ---
 
-# Summary
+## Summary
 I am an undergraduate student at the **School of Artificial Intelligence, Southeast University (SEU)**.  
 I have a solid grasp of academic knowledge from my coursework, while my research interests extend broadly outside the classroom. These include large language models, neural networks, contrastive learning, and unsupervised learning paradigms in machine learning.  
 I enjoy exploring the unknown and excel in the practical application of technical skills. Beyond my studies and research, I have a strong passion for open-source projects and deeply value the collaborative spirit they embody.
 
 ---
 
-# Education
-- **Southeast University** (B.E. in Artificial Intelligence), Nanjing, China  
-  _Sep. 2022 — Present_
+## Education
 
-<!-- ### Professional Basic Courses:
-- Complex Function (96, top 1%)
-- Mathematical Analysis for Engineering (96)  
-- Linear Algebra (95)  
-- University Physics (90)
+🔹 **Southeast University** *(B.E. in Artificial Intelligence)*, Nanjing, China  
+<span style="float: right; color: gray;">Sep. 2022 – Present</span>
 
-### Major Courses:
-- Digital Logic Circuits (96, top 4%)
-- Pattern Recognition (91, top 7%)
-- Machine Learning (88, top 10%)
-- Signals and Systems (88, top 5%) -->
+**Professional basic courses**:  
+Complex Function (96, top 1%), Mathematical Analysis for Engineering (96), Linear Algebra (95),  
+University Physics (90), C++ Programming (90)  
+
+**Major courses**:  
+Digital Logic Circuits (96, top 4%), Pattern Recognition (91, top 7%), Machine Learning (88, top 10%),  
+Signals and Systems (88, top 5%), Professional Skills Training (College-Enterprise) (94)  
+
+**Courses currently being studied**:  
+Computer Vision, Natural Language Processing, Knowledge Engineering,  
+Deep Learning, Computer Graphics, etc.
+
+
 
 ---
 
-# Research
+## Projects
+
+### Leveraging Graph Neural Retrieval-Augmented Generation for Open Table-Text Hybrid QA  
+- Undergraduate Open Topics of Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education. Guided by [Prof. Guilin Qi](https://cs.seu.edu.cn/gqi/main.htm).  
+- The project is expected to publish one paper, accept one patent, and develop a TableRAG system.  
+<span style="float: right; color: gray;">Nov. 2024 – Present</span>
+
+### Research on Monocular Depth Estimation from RGB Images  
+- Improved the traditional multi-scale feature extraction module, effectively enhancing the feature representation capability of the depth estimation model.  
+- Improved the accuracy of monocular depth estimation from RGB images while reducing depth error.  
+<span style="float: right; color: gray;">Oct. 2024 – Dec. 2024</span>
+
+
+### Research on Intelligent Bird Detection and Repelling Technology for Substation Based on Audio-Visual Integration (Provincial Innovation)  
+- Built an integrated audio-visual bird-repelling private server device.  
+- Combined deep learning and other technologies to construct a full-featured intelligent system for bird detection and repelling.  
+<span style="float: right; color: gray;">Apr. 2024 – Present</span>
+
+
+### Intelligent Bird Recognition Technology for Substations Based on Deep Learning (School-Level SRTP)  
+- The project received **excellent** final acceptance.  
+- Published an international conference paper and was **nominated for the best poster award**.  
+- Innovatively designed an improved, efficient, and lightweight bird detection model.  
+<span style="float: right; color: gray;">Oct. 2023 – Oct. 2024</span>
+
+
+---
+
+## Research
 My research integrates **large language models**, **computer vision**, and **contrastive learning** to solve amazing problems. Machine learning and AI technologies are employed in all these fields. Below are some specific focuses:  
 
 ### Large Language Models:
@@ -64,43 +95,41 @@ My research integrates **large language models**, **computer vision**, and **con
 
 ---
 
-# Projects
-- **Research on intelligent bird detection and repelling technology for substations based on audio-visual integration (Provincial Innovation):**  
-  Built an integrated audio-visual bird-repelling private server device, combining deep learning technologies to develop a full-featured intelligent system.  
 
-- **Intelligent bird recognition technology for substations based on deep learning (School-level SRTP):**  
-  - Final acceptance rated as **excellent**.  
-  - Published an international conference paper and was **nominated for the Best Poster Award**.  
-  - Designed an improved, efficient, and lightweight bird detection model.  
+## Conference Papers / Presentations
 
----
-
-# Conference Papers / Presentations
 1. **X. Xie**, Y. Wang, H. Liang, C. Lou, and B. Gao,  
-   _"An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5"_,  
-   in **Proc. IEEE Int. Conf. CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)**, Copenhagen, Denmark, 2024, pp. 124–129.  
-   [IEEE](https://doi.org/10.1109/CYBER63482.2024.10748798)
+   *"An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5"*,  
+   Proceedings of the **IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)**,  
+   Copenhagen, Denmark, 2024, pp. 124–129.  
+   [DOI: 10.1109/CYBER63482.2024.10748798](https://doi.org/10.1109/CYBER63482.2024.10748798)
+
 
 ---
 
-# Honors and Awards
+## Honors and Awards
+
+- **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition  
+  *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)* (Oct. 2024)  
 - **Southeast University Three Good Students** (Sep. 2024)  
 - **Finalist for Best Poster Award** at IEEE-CYBER 2024 (Jul. 2024)  
-- **First Prize** in the 15th National College Students Mathematics Competition (Apr. 2024)  
+- **First Prize** in the 15th National College Students Mathematics Competition (top 1%) (Apr. 2024)  
 - **Outstanding Communist Youth League Member of Southeast University** (Jun. 2023)  
-- **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition (Oct. 2024)  
+- **First Prize** in the 20th Jiangsu Provincial College Student Mathematics Competition (top 1%) (May. 2023)  
 
 ---
 
-# Skills
-- **Frameworks:** PyTorch, Sklearn, OpenCV, etc.  
-- **Programming:** Python, C++, MATLAB, LaTeX  
+## Skills
+
+- **Programming:** Python, C/C++, MATLAB, JavaScript  
+- **Misc:** PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown, etc.
 
 ---
 
-# Self-Evaluation
-- **Passion:** Enthusiastic about technology and innovation, always eager to explore new areas.  
-- **Teamwork:** Excellent communication and collaboration skills, with a strong teamwork spirit.  
-- **Learning Ability:** Quick learner with the ability to adapt to new environments.  
-- **Responsibility:** Reliable and capable of completing tasks independently.  
+## Self-evaluation
+- **Passion**: Enthusiastic about technology and innovation, always eager to explore new frontiers.  
+- **Teamwork**: Strong communication and collaboration skills, actively contributing to group success.  
+- **Adaptability**: Quick learner with the ability to apply knowledge effectively and adapt to new environments.  
+- **Responsibility**: Highly responsible, capable of managing tasks independently with exceptional attention to detail.  
+
 
