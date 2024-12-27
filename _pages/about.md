@@ -106,11 +106,3 @@ InstDisc ([arXiv](https://arxiv.org/abs/1805.01978)), InvaSpread ([IEEE](https:/
 - **Programming**: Python, C/C++, MATLAB, JavaScript  
 - **Misc**: PyTorch, TensorFlow, Scikit-learn, OpenCV, LaTeX, Markdown
 
----
-
-## Self-evaluation
-
-- **Passion**: Enthusiastic about technology and innovation, always eager to explore new frontiers.  
-- **Teamwork**: Strong communication and collaboration skills, actively contributing to group success.  
-- **Adaptability**: Quick learner with the ability to apply knowledge effectively and adapt to new environments.  
-- **Responsibility**: Highly responsible, capable of managing tasks independently with exceptional attention to detail.
