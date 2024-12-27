@@ -20,7 +20,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 <span style="float: right; color: gray;">Sep. 2022 – Present</span>
 
 **Professional basic courses**:  
-Complex Function (96, top 1%), Mathematical Analysis for Engineering (96), Linear Algebra (95),  
+Complex Function (96, top 1), Mathematical Analysis for Engineering (96), Linear Algebra (95),  
 University Physics (90), C++ Programming (90)  
 
 **Major courses**:  
