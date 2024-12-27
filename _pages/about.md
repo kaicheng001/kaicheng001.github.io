@@ -38,22 +38,22 @@ Deep Learning, Computer Graphics, etc.
 ## Projects
 
 - **Leveraging Graph Neural Retrieval-Augmented Generation for Open Table-Text Hybrid QA**  
-  <span style="float: right; color: gray;">Nov. 2024 – Present</span>  
+  <span style="float: right; color: gray;">Nov. 2024 – Present</span> <br>
   - Undergraduate Open Topics of Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education. Guided by [Prof. Guilin Qi](https://cs.seu.edu.cn/gqi/main.htm).  
   - Expected outcomes: one paper publication, one patent application, and the development of a TableRAG system.
 
 - **Research on Monocular Depth Estimation from RGB Images**  
-  <span style="float: right; color: gray;">Oct. 2024 – Dec. 2024</span>  
+  <span style="float: right; color: gray;">Oct. 2024 – Dec. 2024</span>  <br>
   - Improved the traditional multi-scale feature extraction module to enhance feature representation capability.  
   - Achieved higher accuracy in monocular depth estimation while reducing depth error.
 
 - **Research on Intelligent Bird Detection and Repelling Technology for Substation Based on Audio-Visual Integration (Provincial Innovation)**  
-  <span style="float: right; color: gray;">Apr. 2024 – Present</span>  
+  <span style="float: right; color: gray;">Apr. 2024 – Present</span>  <br>
   - Developed an integrated audio-visual bird-repelling private server device.  
   - Applied deep learning and other advanced technologies to construct a comprehensive intelligent bird detection and repelling system.
 
 - **Intelligent Bird Recognition Technology for Substations Based on Deep Learning (School-Level SRTP)**  
-  <span style="float: right; color: gray;">Oct. 2023 – Oct. 2024</span>  
+  <span style="float: right; color: gray;">Oct. 2023 – Oct. 2024</span>  <br>
   - Project achieved **excellent** final acceptance.  
   - Published an international conference paper and was **nominated for the best poster award**.  
   - Designed an improved, efficient, and lightweight bird detection model.
