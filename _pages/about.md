@@ -20,16 +20,13 @@ I enjoy exploring the unknown and excel in the practical application of technica
 <span style="float: right; color: gray;">Sep. 2022 – Present</span> <br>
 
   -  **Professional basic courses**:  
-    Complex Function (96, top 1), Mathematical Analysis for Engineering (96), Linear Algebra (95),  
-    University Physics (90), C++ Programming (90)  
+    Complex Function (96, top 1), Mathematical Analysis for Engineering (96), Linear Algebra (95), University Physics (90), C++ Programming (90)  
 
   -  **Major courses**:  
-    Digital Logic Circuits (96, top 4%), Pattern Recognition (91, top 7%), Machine Learning (88, top 10%),  
-    Signals and Systems (88, top 5%), Professional Skills Training (College-Enterprise) (94)  
+    Digital Logic Circuits (96, top 4%), Pattern Recognition (91, top 7%), Machine Learning (88, top 10%), Signals and Systems (88, top 5%), Professional Skills Training (College-Enterprise) (94)  
 
   -  **Courses currently being studied**:  
-    Computer Vision, Natural Language Processing, Knowledge Engineering,  
-    Deep Learning, Computer Graphics, etc.
+    Computer Vision, Natural Language Processing, Knowledge Engineering, Deep Learning, Computer Graphics, etc.
 
 
 
