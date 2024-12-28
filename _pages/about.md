@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "kaicheng001's Homepage"
+title: "Xing Xie's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -89,12 +89,23 @@ InstDisc ([arXiv](https://arxiv.org/abs/1805.01978)), InvaSpread ([IEEE](https:/
 ## Honors and Awards
 
 - **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition  
-  *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)* (Oct. 2024)  
-- **Southeast University Three Good Students** (Sep. 2024)  
-- **Finalist for Best Poster Award** at IEEE-CYBER 2024 (Jul. 2024)  
-- **First Prize** in the 15th National College Students Mathematics Competition *(top 1%)* (Apr. 2024)  
-- **Outstanding Communist Youth League Member of Southeast University** (Jun. 2023)  
-- **First Prize** in the 20th Jiangsu Provincial College Student Mathematics Competition *(top 1%)* (May. 2023)  
+  *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)*  
+  <span style="float: right; color: gray;">(Oct. 2024)</span>
+
+- **Southeast University Three Good Students**  
+  <span style="float: right; color: gray;">(Sep. 2024)</span>
+
+- **Finalist for Best Poster Award** at IEEE-CYBER 2024  
+  <span style="float: right; color: gray;">(Jul. 2024)</span>
+
+- **First Prize** in the 15th National College Students Mathematics Competition *(top 1%)*  
+  <span style="float: right; color: gray;">(Apr. 2024)</span>
+
+- **Outstanding Communist Youth League Member of Southeast University**  
+  <span style="float: right; color: gray;">(Jun. 2023)</span>
+
+- **First Prize** in the 20th Jiangsu Provincial College Student Mathematics Competition *(top 1%)*  
+  <span style="float: right; color: gray;">(May. 2023)</span>
 
 ---
 

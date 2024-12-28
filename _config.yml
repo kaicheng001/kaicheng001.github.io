@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "kaicheng001"
+title                    : "Xing Xie"
 title_separator          : "-"
-name                     : &name "kaicheng001"
+name                     : &name "Xing Xie"
 description              : &description "personal description"
 url                      : https://kaicheng001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "kaicheng001/kaicheng001.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "kaicheng001"
+  name             : "Xing Xie"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at Southeast University"
   location         : "Nanjing, China"
