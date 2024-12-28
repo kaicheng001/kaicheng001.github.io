@@ -89,7 +89,7 @@ InstDisc ([arXiv](https://arxiv.org/abs/1805.01978)), InvaSpread ([IEEE](https:/
 ## Honors and Awards
 
 - **Provincial Third Prize** in the 6th Global Campus Intelligent Algorithm Elite Competition  
-  *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)*  
+  <!-- *(Algorithm Challenge - BIRADS classification and feature recognition of ultrasound breast images)*   -->
   <span style="float: right; color: gray;">(Oct. 2024)</span>
 
 - **Southeast University Three Good Students**  
