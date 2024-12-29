@@ -60,7 +60,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 ---
 
 ## Research
-My research integrates **large language models**, **computer vision**, and **contrastive learning** to solve amazing problems. Machine learning and AI technologies are employed in all these fields. Below are some specific focuses:  
+My research integrates **large language models**, **computer vision**, and **contrastive learning** to solve amazing problems. The three fields under discussion all make use of **Machine Learning** and **Artificial Intelligence** techniques. The following are some of the areas in which research is of particular interest:
 
 - Large Language Models:
 
@@ -79,7 +79,7 @@ InstDisc ([arXiv](https://arxiv.org/abs/1805.01978)), InvaSpread ([IEEE](https:/
 
 ## Conference Papers / Presentations
 
-1. **X. Xie**, Y. Wang, H. Liang, C. Lou, and B. Gao, *"An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5"*, in **Proceedings of the IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)**, Copenhagen, Denmark, 2024, pp. 124–129. [DOI: 10.1109/CYBER63482.2024.10748798](https://doi.org/10.1109/CYBER63482.2024.10748798)
+1. **X. Xie**, Y. Wang, H. Liang, C. Lou, and B. Gao, *"An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5"*, in **Proceedings of the IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)**, Copenhagen, Denmark, 2024, pp. 124–129. [IEEE](https://doi.org/10.1109/CYBER63482.2024.10748798)
 
 
 
