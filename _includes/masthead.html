@@ -17,9 +17,10 @@
           {% endif %}
           <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <!-- 添加CV链接 -->
+          <!-- 添加CV链接，设置 target="_blank" -->
           <li class="masthead__menu-item">
-            <a href="https://kaicheng001.github.io/files/Xing_Xie_CV.pdf" target="_blank">CV</a>
+            <a href="https://kaicheng001.github.io/files/Xing_Xie_CV.pdf" target="_blank"
+              rel="noopener noreferrer">CV</a>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
