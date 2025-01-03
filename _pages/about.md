@@ -21,7 +21,7 @@ Additionally, I am deeply committed to open-source projects and the collaborativ
 ## Education
 
 - **Southeast University** *(B.E. in Artificial Intelligence)*, Nanjing, China  
-<span style="float: right; color: gray;">Sep. 2022 – Jun. 2026(Expected)</span> 
+<span style="float: right; color: gray;">Sep. 2022 – Jun. 2026(Expected)</span> <br>
 
 ---
 
