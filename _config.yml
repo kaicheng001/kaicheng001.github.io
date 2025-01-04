@@ -12,7 +12,7 @@ title                    : "Xing Xie"
 title_separator          : "-"
 name                     : &name "Xing Xie"
 description              : &description "personal description"
-url                      : https://kaicheng001.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://kaicheng001.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kaicheng001/kaicheng001.github.io"
 
