@@ -1,28 +1,25 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# main links links
 main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
-    url: /publications/
+    url: "/#-publications"
 
-  # - title: "Blogs"
-  #   url: /year-archive/
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Educations"
+    url: "/#-educations"
 
-  - title: "Activities"
-    url: /activities/      
-    
-  - title: "Awards"
-    url: /awards/
+  - title: "CV"
+    url: /files/XingXie_CV.pdf
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  # - title: "Internships"
+  #   url: "/#-internships"
