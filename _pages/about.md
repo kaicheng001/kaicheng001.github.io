@@ -32,7 +32,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 
 # 📝 Publications 
 
-<img src="https://img.shields.io/badge/IEEECYBER-2024-blue?style=flat-square"> **Xing Xie**, Yu Wang, Hao Liang, Chenyang Lou, Bingtuan Gao, &quot;**An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5**&quot;. In *Proceedings of IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems*. [[IEEE](https://ieeexplore.ieee.org/abstract/document/10748798)] 
+<img src="https://img.shields.io/badge/IEEE CYBER-2024-blue?style=flat-square"> **Xing Xie**, Yu Wang, Hao Liang, Chenyang Lou, Bingtuan Gao, &quot;**An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5**&quot;. In *Proceedings of IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems*. [[IEEE](https://ieeexplore.ieee.org/abstract/document/10748798)] 
 
 
 # 🎖 Honors and Awards
