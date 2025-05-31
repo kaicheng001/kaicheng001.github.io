@@ -81,7 +81,11 @@ I enjoy exploring the unknown and excel in the practical application of technica
 
 
 # 🎖 Honors and Awards
-- *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark, 2024. [\[Certification\]](../files/finalist_of_best_poster_award.pdf)
+- *2025.05* **Outstanding Paper Award**, Southeast University.  
+- *2024.10* **Merit Student**, Southeast University.
+- *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark.
+<!-- - *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark, 2024. [\[Certifice\]](../files/finalist_of_best_poster_award.pdf) -->
+
 
 # 📖 Educations
 - *2022.08 - present*, School of Artificial Intelligence, Southeast University.
