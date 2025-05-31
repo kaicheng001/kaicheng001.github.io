@@ -65,7 +65,13 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      {% endif %}
+      {% if author.codeforces %}
+      <li><a href="https://codeforces.com/profile/{{ author.codeforces }}">
+          <img src=".../images/codeforces-icon.svg"
+            style="width: 17px; height: auto; vertical-align: text-bottom; margin-right: 3px;"> Codeforces</a>
+      </li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
