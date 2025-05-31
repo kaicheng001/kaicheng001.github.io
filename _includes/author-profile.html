@@ -73,6 +73,12 @@
             style="width: 17px; height: auto; vertical-align: text-bottom; margin-right: 3px;"> Codeforces</a>
       </li>
       {% endif %}
+      {% if author.atcoder %}
+      <li><a href="https://atcoder.jp/users/{{ author.atcoder }}">
+          <img src="/images/atcoder_logo.svg"
+            style="width: 17px; height: auto; vertical-align: text-bottom; margin-right: 3px;"> AtCoder</a>
+      </li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
