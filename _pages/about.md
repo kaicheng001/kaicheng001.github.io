@@ -57,6 +57,26 @@ I enjoy exploring the unknown and excel in the practical application of technica
 
 # 📝 Publications
 
+
+<div style="display: flex; align-items: flex-start; gap: 28px; margin: 20px 0 28px 0;">
+  <div style="position: relative; display: inline-block;">
+    <!-- 比例自适应，最大宽高限制 -->
+    <img src="/images/table-r1_overview.png"
+         alt="Table-r1"
+         style="max-width: 360px; max-height: 270px; width: auto; height: auto; border-radius: 7px; box-shadow: 0 2px 8px #eee;">
+    <span style="position: absolute; top: 6px; left: 0; display: flex; flex-direction: row; font-size: 0.75em; font-weight: 600; border-radius: 2.5px; overflow: hidden; box-shadow: 0 1px 4px #bbb;">
+      <span style="background: #444; color: #fff; padding: 1.5px 6px 1.5px 5px; letter-spacing: 0.5px;">Under Review</span>
+    </span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <span>
+      <b><em> Table-r1</em>: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models</b>.
+      <span style="color: #888;">under review, 2025</span>
+    </span>
+  </div>
+</div>
+
+
 <img src="https://img.shields.io/badge/IEEE CYBER-2024-blue?style=flat-square"> **Xing Xie**, Yu Wang, Hao Liang, Chenyang Lou, Bingtuan Gao, &quot;**An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5**&quot;. In *Proceedings of IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems*. [[IEEE](https://ieeexplore.ieee.org/abstract/document/10748798)]
 
 
