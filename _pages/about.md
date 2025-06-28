@@ -53,7 +53,7 @@ I enjoy exploring the unknown and excel in the practical application of technica
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉  My personal website updated completely!
+- *2025.05*: &nbsp;🔥🔥  We present the paper: <b><em>Table-r1</em>: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models</b>.
 
 # 📝 Publications
 
@@ -70,8 +70,9 @@ I enjoy exploring the unknown and excel in the practical application of technica
   </div>
   <div style="display: flex; align-items: center;">
     <span>
+    Rihui Jin, Zheyu Xin, <b>Xing Xie</b>, Zuoyi Li, Guilin Qi, Yongrui Chen, Xinbang Dai, Tongtong Wu, Gholamreza Haffari,
       <b><em> Table-r1</em>: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models</b>.
-      <span style="color: #888;">under review, 2025</span>
+      <span style="color: #888;">arXiv, 2025</span>
     </span>
   </div>
 </div>
