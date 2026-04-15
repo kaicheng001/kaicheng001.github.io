@@ -81,7 +81,7 @@ I enjoy exploring open problems at the frontier of AI, with a strong emphasis on
 # 🎖 Honors and Awards
 - *2025.05* **Outstanding Paper Award**, Southeast University.  
 - *2024.10* **Merit Student**, Southeast University.
-- *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark.
+<!-- - *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark. -->
 <!-- - *2024.07* **Finalist of Best Poster Award**, *IEEE-CYBER 2024* in Copenhagen, Danmark, 2024. [\[Certifice\]](../files/finalist_of_best_poster_award.pdf) -->
 
 
