@@ -43,13 +43,13 @@ h1, h2, h3, h4, h5, h6 {
 
 <span class='anchor' id='about-me'></span>
 
-Xing Xie is currently a third-year undergraduate student pursuing a degree in Artificial Intelligence.
+I am a fourth-year undergraduate student majoring in Artificial Intelligence at Southeast University, and an incoming master's student at the School of Information Science and Technology, University of Science and Technology of China, advised by Prof. [Jiajun Deng](https://djiajunustc.github.io/) and Prof. [Wengang Zhou](http://staff.ustc.edu.cn/~zhwg/).
 
-I am generally interested in computer vision and machine learning. My recent focus is on:
-- **Multimodal Large Language Model**
-- **Generative AI**
+My research interests lie broadly in computer vision and machine learning, with a current focus on:
+- **Embodied AI**
+- **World Models**
 
-I enjoy exploring the unknown and excel in the practical application of technical skills. Beyond academia, I have a deep appreciation for open-source software and the collaborative spirit it fosters.
+I enjoy exploring open problems at the frontier of AI, with a strong emphasis on practical, hands-on implementation. Beyond academia, I am an enthusiastic advocate for open-source software and the collaborative culture it cultivates.
 
 
 # 🔥 News
@@ -76,9 +76,6 @@ I enjoy exploring the unknown and excel in the practical application of technica
     </span>
   </div>
 </div>
-
-
-<img src="https://img.shields.io/badge/IEEE CYBER-2024-blue?style=flat-square"> **Xing Xie**, Yu Wang, Hao Liang, Chenyang Lou, Bingtuan Gao, &quot;**An Efficient Bird Detection Method for Substation Inspection via Improved YOLOv5**&quot;. In *Proceedings of IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems*. [[IEEE](https://ieeexplore.ieee.org/abstract/document/10748798)]
 
 
 # 🎖 Honors and Awards
