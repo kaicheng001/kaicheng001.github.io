@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "CV"
-    url: /files/XingXie_CV.pdf
+  # - title: "CV"
+  #   url: /files/XingXie_CV.pdf
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
