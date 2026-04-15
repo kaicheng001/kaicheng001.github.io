@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xing Xie's Homepage"
-description              : "Multimodal LLM | GenAI"
+description              : "incoming master student at USTC"
 repository               : "kaicheng001/kaicheng001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,14 +43,14 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : xing-xie-808538401 # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0005-6717-4325 # e.g., "https://orcid.org/xxxx"
+  orcid            : #https://orcid.org/0009-0005-6717-4325 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  codeforces       : kruebbelegassiemz2154 # e.g., "codeforces username"
-  atcoder          : kaicheng001
+  codeforces       : # e.g., "codeforces username"
+  atcoder          : 
   steam            :
   tumblr           :
   twitter          : 
